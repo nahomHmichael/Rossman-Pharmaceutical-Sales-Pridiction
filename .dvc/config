@@ -4,3 +4,5 @@
 ['remote "myremote"']
     url = gdrive://1FycOAg9cYTdsgmCR6llY3Mz228l5o4Hv
     gdrive_use_service_account = true
+    gdrive_service_account_json_file_path = /home/nhgirma/Documents/GitHub/mine/Rossman-Pharmaceutical-Sales-Pridiction/keys.json
+    gdrive_service_account_user_email = dvc-project@my-project-ab-361311.iam.gserviceaccount.com
