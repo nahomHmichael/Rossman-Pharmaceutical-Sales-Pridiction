@@ -4,7 +4,7 @@ from log_helper import logger
 class DataInfo:
     def __init__(self,df):
         self.df =df
-    def colums_WithMissingValue(self):
+    def columns_WithMissingValue(self):
         miss = []
         dff = self.df.isnull().any()
         summ = 0
