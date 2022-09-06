@@ -12,7 +12,7 @@ class DataInfo:
             if col == True:
                 miss.append(dff.index[summ])
             summ += 1
-        self.logger.info(f"Colums with missing values: {miss}")
+        
         return miss
 
     def get_column_based_missing_percentage(self):
@@ -26,7 +26,6 @@ class DataInfo:
 
         missing_df = pd.DataFrame(col_null, columns=['total_missing_values'])
         missing_df['missing_percentage'] = missing_percentage
-        self.logger.info(f"Showing missing percentage")
         return missing_df
 
         
