@@ -28,3 +28,12 @@ class DataClean:
         for col in cols:
             self.df[col] = np.where(self.df[col]>self.df[col].quantile(0.95),self.df[col].median(),self.df[col])
         logger.info("removing outliers successful!")
+        return 
+    def change_column_to_date_type(self, col_name):
+        try:
+            self.df[col_name] = pd.to_datetime(self.df[col_name])
+        except:
+            print('failed to change column to Date Type')
+        logger.info(
+            f"Successfully changed column {col_name} to DateType!")
+
