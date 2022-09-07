@@ -1,0 +1,90 @@
+time: 2022-09-06 23:44:47,314, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:04:00,912, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:04:00,912, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:04:00,912, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:05:12,460, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:05:12,460, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:05:12,461, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:06:02,970, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:06:02,971, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:06:02,971, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:08:19,874, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:08:19,875, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 00:08:19,875, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 08:26:28,520, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 08:26:28,523, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 08:27:54,028, function: dateParser, module: log_helper, message: parsed data successfully! 
+
+time: 2022-09-07 08:27:59,139, function: dateParser, module: log_helper, message: parsed data successfully! 
+
+time: 2022-09-07 09:04:49,367, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 09:05:49,851, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 09:06:08,848, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 09:06:08,848, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 09:06:09,161, function: dateParser, module: log_helper, message: parsed data successfully! 
+
+time: 2022-09-07 09:06:14,053, function: dateParser, module: log_helper, message: parsed data successfully! 
+
+time: 2022-09-07 09:06:15,834, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 09:06:15,839, function: fix_outlier_with_median, module: log_helper, message: outlier for CompetitionDistance successfully fixed! 
+
+time: 2022-09-07 09:06:15,842, function: fix_outlier_with_median, module: log_helper, message: outlier for CompetitionOpenSinceMonth successfully fixed! 
+
+time: 2022-09-07 09:07:30,073, function: fix_outlier_with_median, module: log_helper, message: outlier for Sales successfully fixed! 
+
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
