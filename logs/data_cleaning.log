@@ -128,3 +128,11 @@ time: 2022-09-07 09:07:30,073, function: fix_outlier_with_median, module: log_he
 
 2022-09-07 20:54:20,143 : INFO : log_helper : Hist plot plotted!!!
 
+2022-09-07 23:20:11,303 : INFO : log_helper : bar plot plotted!!!
+
+2022-09-07 23:20:11,591 : INFO : log_helper : bar plot plotted!!!
+
+2022-09-07 23:20:14,201 : INFO : log_helper : Hist plot plotted!!!
+
+2022-09-07 23:20:14,644 : INFO : log_helper : Hist plot plotted!!!
+
