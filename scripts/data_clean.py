@@ -52,7 +52,7 @@ class DataClean:
     def fix_outlier_with_median(self,Df,col):
         Q1 = Df[col].quantile(0.25)
         Q3 = Df[col].quantile(0.75)
-        median = Df[col].quantilr(0.50)
+        median = Df[col].quantile(0.50)
         IQR = Q3-Q1
         Upper_whisker = Q3 + (1.5 * IQR)
         lower_whisker = Q1 -(1.5 * IQR)
