@@ -24,3 +24,11 @@ time: 2022-09-07 00:08:19,875, function: __init__, module: log_helper, message: 
 
 time: 2022-09-07 00:08:19,875, function: __init__, module: log_helper, message: DataClean method added! 
 
+time: 2022-09-07 08:26:28,520, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 08:26:28,523, function: __init__, module: log_helper, message: DataClean method added! 
+
+time: 2022-09-07 08:27:54,028, function: dateParser, module: log_helper, message: parsed data successfully! 
+
+time: 2022-09-07 08:27:59,139, function: dateParser, module: log_helper, message: parsed data successfully! 
+
