@@ -1,5 +1,5 @@
 import pandas as pd 
-from log_helper import logger
+from log_helper import Logger_Class
 
 class DataInfo:
     def __init__(self,df):

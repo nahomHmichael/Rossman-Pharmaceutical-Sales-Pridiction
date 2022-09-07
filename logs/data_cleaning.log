@@ -52,3 +52,39 @@ time: 2022-09-07 09:06:15,842, function: fix_outlier_with_median, module: log_he
 
 time: 2022-09-07 09:07:30,073, function: fix_outlier_with_median, module: log_helper, message: outlier for Sales successfully fixed! 
 
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:12,128 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:17,907 : INFO : log_helper : parsed data successfully!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,027 : INFO : log_helper : outlier for CompetitionDistance successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,031 : INFO : log_helper : outlier for CompetitionOpenSinceMonth successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-07 11:25:20,182 : INFO : log_helper : outlier for Sales successfully fixed!
+
