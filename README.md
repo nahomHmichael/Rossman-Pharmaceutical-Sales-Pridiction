@@ -1,2 +1,2 @@
-# Rossman Pharmaceutical-Sales-Pridiction
+# Rossman Pharmaceutical-Sales-Prediction
  
