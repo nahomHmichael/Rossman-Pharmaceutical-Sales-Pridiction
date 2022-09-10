@@ -11,7 +11,7 @@ class DataPreprocessor:
     def __init__(self, df: pd.DataFrame) -> None:
         self.df = df
         self.logger = Logger_Class(
-            "../logs/ml_preprocessing.log").get_app_logger()
+            "../logs/ml_preprocessing.log").get_logger()
 
     def drop_duplicates(self) -> pd.DataFrame:
         droped = self.df[self.df.duplicated()].index
