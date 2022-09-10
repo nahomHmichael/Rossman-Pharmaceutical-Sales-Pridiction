@@ -6,7 +6,7 @@ from log_helper import Logger_Class
 
 logger_obj = Logger_Class("../logs/feat_extraction.log").get_logger()
 
-class DataManipulator:
+class DataExtractor:
     def __init__(self, df: pd.DataFrame, deep=False):
         self.logger = Logger_Class(
             "../logs/feat_extraction.log").get_logger()
