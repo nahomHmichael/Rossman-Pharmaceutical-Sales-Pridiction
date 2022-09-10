@@ -4,6 +4,7 @@ import datetime
 from prophet.diagnostics import cross_validation
 from prophet.diagnostics import performance_metrics
 
+
 class Fb_prophet:
     def __init__(self,train,holidays):
         self.future_dates = None
@@ -40,7 +41,9 @@ class Fb_prophet:
     def save_model(self):
         now = datetime.datetime.now().strftime('%d-%m-%Y-%H-%M-%S-%f')[:-3]
         # Saving model to disk
+     
         filename = now + '.pkl'
-        pickle.dump(self.model, open(filename, 'wb'))
+        path = '../models/' + filename
+        pickle.dump(self.model, open(path, 'wb'))
         print('Saving model successful!!!')
         return filename
