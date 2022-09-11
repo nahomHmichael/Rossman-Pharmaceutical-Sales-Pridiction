@@ -1,0 +1,1 @@
+{'bootstrap': [True, False], 'criterion': ['mse'], 'max_depth': [10, 15, 20, 25], 'max_features': [2, 3, 4, 5], 'n_estimators': [10, 15, 20], 'warm_start': [True, False]}
