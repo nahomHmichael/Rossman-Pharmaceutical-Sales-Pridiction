@@ -4,7 +4,6 @@ import mysql.connector as mysql
 from mysql.connector import Error
 import os
 import sys
-import streamlit as st
 
 
 def DBConnect(dbName=None):    
