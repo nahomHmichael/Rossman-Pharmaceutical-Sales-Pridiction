@@ -1,0 +1,15 @@
+artifact_uri: file:///home/nhgirma/Documents/GitHub/mine/Rossman-Pharmaceutical-Sales-Pridiction/notebooks/mlruns/0/21f2766c19e94e118a1e01da60a985ba/artifacts
+end_time: 1662887153933
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 21f2766c19e94e118a1e01da60a985ba
+run_uuid: 21f2766c19e94e118a1e01da60a985ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1662887151881
+status: 4
+tags: []
+user_id: nhgirma
