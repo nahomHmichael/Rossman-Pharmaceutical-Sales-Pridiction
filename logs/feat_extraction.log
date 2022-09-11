@@ -18,3 +18,41 @@
 
 2022-09-11 00:42:37,340 : INFO : log_helper : Successfully Added Season Column
 
+2022-09-11 10:27:35,873 : INFO : log_helper : parsed data successfully!
+
+2022-09-11 10:27:36,873 : INFO : log_helper : Showing missing percentage
+
+2022-09-11 10:27:37,536 : INFO : log_helper : Showing missing percentage
+
+2022-09-11 10:27:37,901 : INFO : log_helper : Box plot plotted!!!
+
+2022-09-11 10:27:38,052 : INFO : log_helper : Box plot plotted!!!
+
+2022-09-11 10:27:38,145 : INFO : log_helper : outlier for Customers successfully fixed!
+
+2022-09-11 10:27:38,199 : INFO : log_helper : outlier for Sales successfully fixed!
+
+2022-09-11 10:27:38,731 : INFO : log_helper : Box plot plotted!!!
+
+2022-09-11 10:27:38,880 : INFO : log_helper : Box plot plotted!!!
+
+2022-09-11 10:27:39,173 : INFO : log_helper : Successfully Added WeekDay Column to the DataFrame
+
+2022-09-11 10:27:39,173 : INFO : log_helper : Successfully Added WeekDay Column to the DataFrame
+
+2022-09-11 10:27:39,701 : INFO : log_helper : Successfully Added DaysToHoliday Column
+
+2022-09-11 10:27:39,701 : INFO : log_helper : Successfully Added DaysToHoliday Column
+
+2022-09-11 10:27:40,093 : INFO : log_helper : Successfully Added DaysAfterHoliday Column
+
+2022-09-11 10:27:40,093 : INFO : log_helper : Successfully Added DaysAfterHoliday Column
+
+2022-09-11 10:27:40,355 : INFO : log_helper : Successfully Added MonthTiming Column
+
+2022-09-11 10:27:40,355 : INFO : log_helper : Successfully Added MonthTiming Column
+
+2022-09-11 10:27:40,550 : INFO : log_helper : Successfully Added Season Column
+
+2022-09-11 10:27:40,550 : INFO : log_helper : Successfully Added Season Column
+
