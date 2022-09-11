@@ -85,6 +85,5 @@ The repository has a number of files including python scripts, jupyter notebooks
 
 ```
 git clone  https://github.com/nahomHmichael/Rossman-Pharmaceutical-Sales-Pridiction
-cd pharmacy_sales_prediction
 pip install -r requirements.txt
 ```
