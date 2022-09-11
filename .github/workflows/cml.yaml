@@ -25,4 +25,7 @@ jobs:
           REPO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd plots/
-          cml-publish easter_sales_14-15.jpg --md >> report.md
+       # cml-publish easter_sales_14-15.jpg --md >> report.md
+          echo "### Model training history" >> report.md
+          cml-publish prophet_forcast.png --md >> report.md
+          cml-send-comment report.md
